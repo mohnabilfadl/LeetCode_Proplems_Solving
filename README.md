@@ -1,2 +1,2 @@
 # LeetCode_Proplems-Solving
-Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures
+I will put my solutions to Leetcode Problems in this repo. Every problem will be solved in Python
